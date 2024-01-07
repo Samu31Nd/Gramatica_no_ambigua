@@ -32,8 +32,6 @@ void eliminarActual(string s); //implemented
 
 void imprimirString(string s); //implemented
 char mostrarElementoIndex(string s, int index); //implemented
-char *mostrarNElementos(string s, int no_elementos);
-char *mostrarNElementosIndex(string s, int no_elementos, int index);
 void eliminarEnIndice(string s, int index); //implemented
 int moverIndice(string s); //implemented
 int obtenerIndice(string s); // implemented
